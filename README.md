@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Priyanshu Singh 👋
 
-<!--
-**priyanshurajput4697/priyanshurajput4697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Dev Bhoomi Uttarakhand University
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Software Development
+- Learning Web Development and Application Development
+- Building academic projects and improving my technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** C, Java (Basic), Python (Basic)
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Spring Boot, Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+## My Projects
+- VirtualLab Coding Platform
+- Smart Plant Recommendation System
+- Student Performance Prediction System
+
+## Contact
+- Email: priyanshurajput4697@gmail.com
